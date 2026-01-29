@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 **Languages**
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/:badgeContent?logo=c%2B%2B)
 ![Go](https://img.shields.io/badge/go-%23777BB4.svg?style=for-the-badge&logo=go&logoColor=white)
 
 
