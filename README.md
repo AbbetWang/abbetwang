@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=abbetwang&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
 
 # 💫 About Me:
-- 🔭 I’m currently working on Node/Go
+- 🔭 I’m currently working on C++
 
 # ✨ Participate in:
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 **Languages**
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/:badgeContent?logo=c%2B%2B)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%23777BB4.svg?style=for-the-badge&logo=go&logoColor=white)
 
 
